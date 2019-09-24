@@ -16,7 +16,8 @@ INPUT FORMAT:
 for further information click link..
 
 OUTPUT:
- A visual output understandable,check in document we attached 
+ A visual output understandable,check it out:output.txt that i added.
+ link:
 
 
 
