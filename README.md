@@ -11,7 +11,7 @@ seats (any order in center seats)
 INPUT FORMAT:
 
 • a 2D array that represents the colums and rows [ [C,R], [C,R],
-[C,R], [C,R] ]
+[C,R], [C,R] ]                    
 • Number of passengers waiting in queue.
 for further information :https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/input.docx
  
