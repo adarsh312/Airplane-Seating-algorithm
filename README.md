@@ -1,7 +1,7 @@
 # Airplane-Seating-algorithm
-A Java program to allocate seats for passengers based on some given conditions.
+A Java program to arrange the seating for the Airline Passengers
 
-Conditions to be followed while allocating seats using java:
+A program that helps to allocate seats to the passengers in a flight based on the following input and rules.
 
 • Always seat passengers starting from the front row to back,
 starting from the left to the right                                                    
