@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Airplane_RowByColumn {
+public class Airplane {
     static class Seats{
         int[][] clusters;
         Seats(int[][] a){
