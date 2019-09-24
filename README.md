@@ -17,7 +17,7 @@ for further information click link..
 
 OUTPUT:
  A visual output understandable,check it out:output.txt that i added.
- link:
+ link:https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/Output.txt
 
 
 
