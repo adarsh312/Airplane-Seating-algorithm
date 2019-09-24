@@ -16,7 +16,7 @@ INPUT FORMAT:
 for further information click link..
 
 OUTPUT:
-
+ A visual output understandable,check in document we attached 
 
 
 
@@ -26,6 +26,18 @@ Below are the points to be noted:
 2.The elegance of the code, modularity and readability
 3.A VISUAL output that is printed (on the screen, in a console or exported to a file etc.) in way that is easy to read, identify the aisle, middle and window rows and has clear seating plan and passenger number.
 4.Testability, TDD and test cases
+
+Software requirements:
+ 
+since we are using java for coding ,needed jdk 
+-check for latest version:https://www.oracle.com/technetwork/java/javase/overview/index.html
+ 
+ NetBeans-platform to execute code.
+ various verion available.
+ for more check-https://netbeans.org/kb/index.html
+ 
+ 
+
 
 
   
