@@ -4,7 +4,7 @@ A Java program to allocate seats for passengers based on some given conditions.
 Conditions to be followed while allocating seats using java:
 
 • Always seat passengers starting from the front row to back,
-starting from the left to the right
+starting from the left to the right                                                    
 • Fill aisle seats first followed by window seats followed by center
 seats (any order in center seats)
 
