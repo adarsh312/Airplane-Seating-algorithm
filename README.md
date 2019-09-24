@@ -23,7 +23,7 @@ A 2D array that represents the rows and columns [[3,2], [4,3], [2,3], [3,4]]
 Please see the attached text document Input.txt
 link :https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/input.docx
  
-If there were 30 passengers from then the seating output will be as in the attachment Output.txt
+If there were 30 passengers, then the seating output will be as in the attachment Output.txt
  link:https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/Output.txt
 
 
