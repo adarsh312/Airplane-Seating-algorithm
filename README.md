@@ -13,7 +13,7 @@ INPUT FORMAT:
 • a 2D array that represents the rows and columns [ [R,C], [R,C],
 [R,C], [R,C] ]
 • Number of passengers waiting in queue.
-for further information click link..
+for further information :https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/input.docx
 
 OUTPUT:
  A visual output understandable,check it out:output.txt that i added.
