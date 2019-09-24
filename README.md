@@ -15,7 +15,7 @@ INPUT FORMAT:
 • Number of passengers waiting in queue.
 for further information :https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/input.docx
  
- if 2D array represents the rows and columns,further steps needs to be processed (i.e Array should be preprocessed) .
+ if 2D array represents the rows and columns,further steps needs to be processed before allocating seats (i.e Array should be preprocessed) .
 
 
 OUTPUT:
