@@ -20,13 +20,10 @@ See below for an example input and the respective seating arrangement based on t
 
 A 2D array that represents the rows and columns [[3,2], [4,3], [2,3], [3,4]] 
 
-for further information :https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/input.docx
+Please see the attached text document Input.txt
+link :https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/input.docx
  
- if 2D array represents the rows and columns,further steps needs to be processed before allocating seats (i.e Array should be preprocessed) .
-
-
-OUTPUT:
- A visual output understandable,check it out:output.txt that i added.
+If there were 30 passengers from then the seating output will be as in the attachment Output.txt
  link:https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/Output.txt
 
 
