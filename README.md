@@ -10,9 +10,16 @@ seats (any order in center seats)
 
 INPUT FORMAT:
 
-• a 2D array that represents the colums and rows [ [C,R], [C,R],
-[C,R], [C,R] ]                    
+• Input to the program will be:
+
+• a 2D array that represents the rows and columns [[3,4], [4,5], [2,3], [3,4]]. This 2D array is just an example. The input to the program will be a dynamic 2D array. 
+
 • Number of passengers waiting in queue.
+
+See below for an example input and the respective seating arrangement based on the input.
+
+A 2D array that represents the rows and columns [[3,2], [4,3], [2,3], [3,4]] 
+
 for further information :https://github.com/jagadeshsri/Airplane-Seating-algorithm/blob/master/input.docx
  
  if 2D array represents the rows and columns,further steps needs to be processed before allocating seats (i.e Array should be preprocessed) .
